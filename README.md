@@ -1,0 +1,2 @@
+# NBA-Players-Yearly-Salaries-Prediction
+In this project, i extracted the 2020-2021 season stats of NBA players from Basketball-reference.com as well as their salaries for the next season (2021-2022). the goal of this project is to study the relationship between a player's performance (measured by the stats) and their salaries. Then predict a player's salary based on how he performed the previous year.
